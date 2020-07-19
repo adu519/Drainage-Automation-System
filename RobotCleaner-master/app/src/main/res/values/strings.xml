@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Drainage Water Automation System</string>
+    <string name="username">Email Address</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_key">AIzaSyC4FGhoubXGu51ySZmofkjXqxDkUHkFIyE</string>
+    <string name="spinner_prompt">Select User</string>
+    <string name="activity_sensor_label">Sensor Data</string>
+    <string name="admin_actions">Admin Actions</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="default_notification_channel_id">1321321</string>
+    <string name="msg_subscribed">Succesfully subsrcibed</string>
+</resources>

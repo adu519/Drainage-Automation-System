@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381359391612",
+    "firebase_url": "https://robot-cleaner-8f9ce.firebaseio.com",
+    "project_id": "robot-cleaner-8f9ce",
+    "storage_bucket": "robot-cleaner-8f9ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381359391612:android:4f5f54d7cecc9ebcd51af9",
+        "android_client_info": {
+          "package_name": "com.solution.robotcleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381359391612-g4ctmik4rjgnqimtloqc61h1tl9tkqlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4FGhoubXGu51ySZmofkjXqxDkUHkFIyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381359391612-g4ctmik4rjgnqimtloqc61h1tl9tkqlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
